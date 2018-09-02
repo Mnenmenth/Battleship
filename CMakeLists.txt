@@ -18,5 +18,9 @@ add_executable(Battleship
         src/ShipConfig.h
         src/States.h
         src/GamePiece.cpp
-        src/GamePiece.h src/AI.cpp src/AI.h src/Player.cpp src/Player.h)
+        src/GamePiece.h
+        src/AI.cpp
+        src/AI.h
+        src/Player.cpp
+        src/Player.h)
 target_link_libraries(Battleship ${SFML_LIBRARIES} ${SFML_DEPENDENCIES})

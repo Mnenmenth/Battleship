@@ -1,3 +1,7 @@
+/*
+ * Made by Earl Kennedy
+ * https://github.com/Mnenmenth
+ */
 #include <iostream>
 #include <vector>
 #include <map>
@@ -6,7 +10,6 @@
 #include <functional>
 #include <shared_mutex>
 #include <SFML/Graphics.hpp>
-#include <libgraph.hpp>
 
 #include "GamePiece.h"
 #include "Ship.h"

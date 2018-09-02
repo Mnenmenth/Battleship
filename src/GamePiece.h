@@ -1,7 +1,6 @@
 /*
  * Made by Earl Kennedy
  * https://github.com/Mnenmenth
- * https://mnenmenth.com
  */
 #ifndef BATTLESHIP_SPRITEUTIL_H
 #define BATTLESHIP_SPRITEUTIL_H
